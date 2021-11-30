@@ -1,6 +1,6 @@
 ## DOAJ Roadmap for the development of the platform (BETA)
 
-[View our roadmap](/DOAJ/Roadmap/projects/1)
+[View our roadmap](https://github.com/DOAJ/Roadmap/projects/1)
 
 Our roadmap provides our users, stakeholders, and partners with a vision of where DOAJ sees itself over the next two years. It provides a high-level view into our priorities for technical development.
 
