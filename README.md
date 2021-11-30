@@ -1,4 +1,4 @@
-### DOAJ Roadmap for the development of the platform (BETA)
+## DOAJ Roadmap for the development of the platform (BETA)
 
 [View our roadmap]()
 
@@ -8,7 +8,7 @@ This is a first attempt, a test at visualising the technical part of the work th
 
 The roadmap will show you what features or developments we're working on, what stage they're in, and when we expect to bring them to you.
 
-## Roadmap stages
+### Roadmap stages
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every column has a quarter and a year. The roadmap is for two years ahead. It is a fluid document and will change constantly. Items may appear or disappear, as we work on prioritising the different bits of work. 
 
 Although we plan our work, some things may be added to the roadmap as need necessitates, particularly "housekeeping" or systems admin projects that are required to keep everything working smoothly.
