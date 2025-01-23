@@ -2,7 +2,7 @@
 
 [View our roadmap](https://github.com/orgs/DOAJ/projects/9)
 
-Our roadmap provides detail on the items that feed into [our strategic plan for 2023-2025](https://blog.doaj.org/2023/02/23/our-strategic-goals-for-2023-25/). This includes technical development of [our website](https://doaj.org/). Cards move from left to right.
+Our roadmap provides detail on the items that feed into [our strategic plan for 2023-2025](https://blog.doaj.org/2023/02/23/our-strategic-goals-for-2023-25/). This includes technical development of [our platform](https://doaj.org/). Cards move from left to right.
 
 ## Strategic themes
 
